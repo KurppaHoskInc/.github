@@ -1,7 +1,8 @@
-<img src='logo.png'>
+<img src='logo.png'/>
 
-## Hi there 👋
+<h1>Hi there 👋</h1>
 
+<h3>TODO FILL THIS OUT /Bill</h3>
 <!--
 
 **Here are some ideas to get you started:**
