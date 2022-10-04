@@ -1,4 +1,4 @@
-<img src='logo_white.png'/>
+<img src='logo.png'/>
 
 <h1>Hi there 👋</h1>
 
